@@ -1,0 +1,78 @@
+[
+    {
+  "name": "portfolio",
+   "desc": "A fully-featured portfolio website with dynamic content and clean UI, built using HTML, CSS, and JavaScript. with responsive design.",
+    "image": "portfolio",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  }, 
+  {
+  "name": "to-do",
+      "desc": "A responsive To-Do List web app built with react, Allows users to add, delete, and mark tasks. Data is stored using Local Storage.",
+      "image": "to-do",
+      "links": {
+        "view": "https://ib-bin.github.io/to-do-list-app/",
+        "code": "https://github.com/ib-bin/to-do-list-app"
+      }
+  } ,
+  
+    {
+    "name": "user managment",
+        "desc": "A user management web app built with React. Users can be added, searched by name in real-time, and deleted individually uses local storage.",
+        "image": "user-managment",
+        "links":{
+          "view":"",
+          "code":""
+        }
+        
+      } ,
+ 
+  {
+  "name": "weather-app",
+      "desc": "A responsive weather app built with HTML, CSS, and Js. Shows temperature, weather conditions, and wind speed for any searched city using real-time API data.",
+      "image": "weather-app",
+      "links": {
+        "view": "https://ib-bin.github.io/weather-app/",
+        "code": "https://github.com/ib-bin/weather-app"
+      }
+    }, 
+
+    {
+  "name": "quiz-app",
+      "desc": "A dynamic quiz application built with html, css, javaScript Features multiple-choice questions, real-time feedback on answers.",
+      "image": "quiz-app",
+      "links": {
+        "view": "",
+        "code": ""
+      }
+    } ,
+    {
+    "name": "youtube page",
+    "desc": "A responsive YouTube homepage clone built using HTML, CSS, and JavaScript. Features a navigation bar, sidebar, video  grid layout.",
+    "image": "youtube",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+    },
+    {
+    "name": "calculator",
+    "desc":"A functional calculator web app built using HTML, CSS, and JavaScript. Supports basic arithmetic operations with a responsive user interface.",
+    "image": "calculator",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+    },
+    {
+    "name": "react router",
+    "desc": "A multi-page React application featuring dynamic routing using React Router. Enables smooth navigation between pages.",
+    "image": "react-router",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+    }
+]
