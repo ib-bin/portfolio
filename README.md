@@ -2,8 +2,7 @@
 
 Personal portfolio website built using **HTML5**, **CSS3**, and **JavaScript** to showcase my skills, projects, and contact information.
 
-
-🔗 **Live Demo:** [View Website][(https://ibrahim-b-portfolio.netlify.app/)]
+<a href="https://ibrahim-b-portfolio.netlify.app/" target="_blank">**Visit Now** 🚀</a>
 
 
 ## 📸 
