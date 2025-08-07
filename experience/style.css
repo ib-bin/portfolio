@@ -458,7 +458,7 @@ header .navbar ul li a:hover{
   right: 2rem;
   padding: 1rem 1.5rem;
   font-size: 2rem;
-  background: #ffae00;
+  background: #89e4ff;
   color: rgb(13, 0, 44);
   border-radius: 5rem;
   transition: 1s linear;
@@ -467,4 +467,5 @@ header .navbar ul li a:hover{
 #scroll-top.active{
   top: calc(100% - 12rem);
 }
+
 /* scroll top ends */
